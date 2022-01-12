@@ -1,0 +1,58 @@
+
+  
+  .menu li {
+
+    display: inline;
+    padding: 20px;
+    margin: 30;
+    
+
+  }
+  .menu li a {
+
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+
+  }
+
+  .menu li a:hover {
+
+    color: rgb(117, 117, 117);
+  }
+  
+  .center {
+
+    text-align: center;
+  }
+  
+  
+  .container
+  {
+
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .p-30 
+  {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  .tm-social{
+    height:20px ;
+    width: 20px;
+    margin: 5px;
+  }
+
+  .mb-50{
+    margin-bottom: 50px;
+  }
+
+  .ml-50{
+    margin-left: 50px;
+  }
